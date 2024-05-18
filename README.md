@@ -12,7 +12,7 @@ JarExtractor is a console utility written in Java designed to extract the conten
 
 ### Requirements
 
-- JDK v.8 or higher
+- Java Development Kit (JDK) version 8 or higher
 - Java compiler (`javac`)
 
 ### Building the Project
